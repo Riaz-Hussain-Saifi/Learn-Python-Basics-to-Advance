@@ -1,7 +1,3 @@
-**Modules & Imports** section:
-
----
-
 # 📦 **11. Modules & Imports**  
 *Organize, reuse, and share code efficiently across projects.*  
 
