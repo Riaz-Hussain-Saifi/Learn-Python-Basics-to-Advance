@@ -1,0 +1,8 @@
+version = 1
+revision = 1
+requires-python = ">=3.12"
+
+[[package]]
+name = "18-using-if-in-one-line-ternary-operator"
+version = "0.1.0"
+source = { virtual = "." }

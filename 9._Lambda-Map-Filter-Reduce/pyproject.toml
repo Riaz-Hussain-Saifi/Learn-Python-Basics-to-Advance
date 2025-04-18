@@ -1,0 +1,7 @@
+[project]
+name = "9-lambda-map-filter-reduce"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
