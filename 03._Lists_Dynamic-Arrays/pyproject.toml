@@ -1,5 +1,5 @@
 [project]
-name = "8-comprehensions"
+name = "03-lists-dynamic-arrays"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"

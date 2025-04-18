@@ -1,5 +1,5 @@
 [project]
-name = "1-python-basics"
+name = "09-lambda-map-filter-reduce"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
