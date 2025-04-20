@@ -3,6 +3,6 @@ revision = 1
 requires-python = ">=3.12"
 
 [[package]]
-name = "3-lists-dynamic-arrays"
+name = "03-lists-dynamic-arrays"
 version = "0.1.0"
 source = { virtual = "." }
